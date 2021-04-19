@@ -5,6 +5,11 @@ Exploration of the data collection, visualisation and real-estate sales analysis
 
 # Content
 *[Scenario](#scenario)
+*[Objective](#objective)
+*[Variables description](#variables description)
+*[Steps](#steps)
+*[Tools](#tools)
+
 
 # Scenario
 You are working as an analyst for a real estate company. Your company wants to build a machine learning model to predict the selling prices of houses based on a variety of features on which the value of the house is evaluated.
@@ -35,4 +40,7 @@ Use different models to compare the accuracies and find the model that best fits
 
 # 3. Visualize
 You will use Tableau to visually explore the data further. The questions have been provided in this file.
+
+# Tools 
+
 
