@@ -5,9 +5,13 @@ Exploration of the data collection, visualisation and real-estate sales analysis
 
 # Content
 *[Scenario](#scenario)
+
 *[Objective](#objective)
+
 *[Variables description](#variables description)
+
 *[Steps](#steps)
+
 *[Tools](#tools)
 
 
