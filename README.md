@@ -1,7 +1,10 @@
-# Hermione-granger
-Mid-Bootcamp Project
+## Real-Estate Sales Analysis
 
-## Real Estate Statistics Analysis
+# April 2021
+Exploration of the data collection, visualisation and real-estate sales analysis.
+
+# Content
+
 
 # Scenario
 You are working as an analyst for a real estate company. Your company wants to build a machine learning model to predict the selling prices of houses based on a variety of features on which the value of the house is evaluated.
