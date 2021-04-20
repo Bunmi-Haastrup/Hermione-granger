@@ -4,6 +4,8 @@
 Exploration of the data collection, visualisation and real-estate sales analysis.
 
 # Content
+*[[Project-outline](#project-outline))
+
 *[Scenario](#scenario)
 
 *[Objective](#objective)
@@ -13,7 +15,10 @@ Exploration of the data collection, visualisation and real-estate sales analysis
 *[Steps](#steps)
 
 *[Tools](#tools)
+ 
+# Project-outline
 
+![alt text](https://github.com/Bunmi-Haastrup/Hermione-granger/blob/main/ReadMe%20Project%20Flow%20Chart.png)
 
 # Scenario
 You are working as an analyst for a real estate company. Your company wants to build a machine learning model to predict the selling prices of houses based on a variety of features on which the value of the house is evaluated.
