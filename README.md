@@ -1,10 +1,10 @@
 ## Real-Estate Sales Analysis
 
 # April 2021
-Exploration of the data collection, visualisation and real-estate sales analysis.
+Exploring, Wrangling, Visualisation and Analysis of Real Estate Data.
 
 # Content
-*[[Project-outline](#project-outline))
+*[Project Outline](#project-outline)
 
 *[Scenario](#scenario)
 
@@ -12,11 +12,18 @@ Exploration of the data collection, visualisation and real-estate sales analysis
 
 *[Variables-description](#variables-description)
 
-*[Steps](#steps)
+*[Data](#data)
 
-*[Tools](#tools)
+*[Database](#database)
+
+*[Visualisation](#visualisation)
+
+*[Statistical Analysis](#statistical-analysis)
+
+*[Conclusion](#conclusion)
  
-# Project-outline
+# Project Outline
+The project started by building a model that will predict the price of a house based on features provided in the dataset. The characteristics of the houses was also also shown using some business intelligence tool such as Tableau. Some of iteretsing questions were answered through the assist of SQL in understanding the data challenge.
 
 ![alt text](https://github.com/Bunmi-Haastrup/Hermione-granger/blob/main/ReadMe%20Project%20Flow%20Chart.png)
 
@@ -37,19 +44,23 @@ Sqft_above: square footage of house apart from the basement
 Sqft_living15: Living room area in 2015(implies-- some renovations) This might or might not have affected the lotSize area.
 Sqft_lot15: lotSize area in 2015(implies-- some renovations)
 
-# Steps
+# Data
+With a colossal sum of data accessible, we investigated a number of diverse sources. Hence CSV file was downloaded and prepared for the data analysis. Using Python we were able to conduct various steps to reach the analyis and reporting stage. we scratched a number of diverse tables into Pandas Dataframes and began to investigate and clean the data. After finalizing with the data cleaning, we sent out the clean dataframes to CSV files to be utilized for assist investigation in SQL.
 
-# 1. Explore the data
-To explore the data, you can use the techniques that have been discussed in class. Some of them include using the describe method, checking null values, using Matplotlib and Seaborn for developing visualizations.
+# Database
+Investigating the data given and considering approximately how to interface it together, we use an ERD for how we needed our database to see and act. Utilizing MySQL, I made a modern pattern, and imported the CSV record from the  Python Jupyter notebook  which enabled us to go further with analysis.
 
-The data has many categorical and numerical variables. Explore the nature of data for these variables before you start with the data cleaning process and then data pre-processing (scaling numerical variables and encoding categorical variables).
+# Visualisation
+Through the use of Tableau we were  able to effectively envision distinctive  plots such as the distribution plots of different variables (independent and dependent) and creation of a visually appealing dashboard to represent the information.
 
-# 2. Build a Model
-Use different models to compare the accuracies and find the model that best fits your data. You can use the measures of accuracies that have been discussed in class. Please note that while comparing different models, make sure you use the same measure of accuracy as a benchmark.
+![alt text](https://github.com/Bunmi-Haastrup/Hermione-granger/blob/main/visualization.png)
 
-# 3. Visualize
-You will use Tableau to visually explore the data further. The questions have been provided in this file.
+# Statistical Analysis
+Under this stage we described the nature of the data to be analyzed, the given data were explored, the model to summarize understanding of how the data relates to the underlying dependent variable was created. This includes proving or disprove the validity of the model and lastly was to employ predictive analytics to anticipate future trends.
 
-# Tools 
+# Conclusion
+Python was used to clean and sent out a few datasets. Utilizing the data at that point built a machine learning and use MySQL to meet our numerous objectives. As the data given was moderately straight forward, we had parcels of time to test with the visualisations in Scene through the use of Tableau , making a collection of outwardly engaging dashboards that offer curiously understanding.
+
+
 
 
