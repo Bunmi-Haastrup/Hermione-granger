@@ -1,6 +1,6 @@
 ## Seattle, Washington Housing Market Analysis
 
-![alt text](https://https://github.com/Bunmi-Haastrup/Hermione-granger/blob/main/image.png)
+![alt text](https://github.com/Bunmi-Haastrup/Hermione-granger/blob/main/image.png)
 
 Picture source:Langan.com, Map source: Hermione-granger
 
