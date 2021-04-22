@@ -8,15 +8,15 @@
 Exploring, Wrangling, Visualisation and Analysis of Real Estate Data.
 
 # Content
-•[Project Outline](#project-outline)
-•[Scenario](#scenario)
-•[Objective](#objective)
-•[Variables-description](#variables-description)
-•[Data](#data)
-•[Database](#database)
-•[Visualisation](#visualisation)
-•[Statistical Analysis](#statistical-analysis)
-•[Conclusion](#conclusion)
+*[Project Outline](#project-outline)
+*[Scenario](#scenario)
+*[Objective](#objective)
+*[Variables-description](#variables-description)
+*[Data](#data)
+*[Database](#database)
+*[Visualisation](#visualisation)
+*[Statistical Analysis](#statistical-analysis)
+*[Conclusion](#conclusion)
  
 # Project Outline
 The project started by building a model that will predict the price of a house based on features provided in the dataset. The characteristics of the houses was also also shown using some business intelligence tool such as Tableau. Some of iteretsing questions were answered through the assist of SQL in understanding the data challenge.
