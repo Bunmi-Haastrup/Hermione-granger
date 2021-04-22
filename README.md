@@ -65,6 +65,8 @@ Investigating the data given and considering approximately how to interface it t
 # Visualisation
 Through the use of Tableau we were  able to effectively envision distinctive  plots such as the distribution plots of different variables (independent and dependent) and creation of a visually appealing dashboard to represent the information.
 
+For the Tableau visualization, it can be found here https://public.tableau.com/profile/olubunmi.abimbola.haastrup#!/vizhome/MidProjectworkongoing/Dashboard4?publish=yes
+
 ![alt text](https://github.com/Bunmi-Haastrup/Hermione-granger/blob/main/visualization.png)
 
 # Statistical Analysis
