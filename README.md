@@ -39,13 +39,21 @@ To build a model that will predict the price of a house based on features provid
 
 # Variables-description
 Id: Unique identification number for the property
+
 date: the date the house was sold
+
 price: the price of the house
+
 waterfront: the house which has a view to a waterfront
+
 condition: How good the condition is (Overall). 1 indicates worn-out property and 5 excellent.
+
 grade: Overall grade given to the housing unit, based on the King County grading system. 1 poor, 13 excellent.
-Sqft_above: square footage of house apart from the basement
+
+Sqft_above: square footage of house apart from the basement.
+
 Sqft_living15: Living room area in 2015(implies-- some renovations) This might or might not have affected the lotSize area.
+
 Sqft_lot15: lotSize area in 2015(implies-- some renovations)
 
 # Data
