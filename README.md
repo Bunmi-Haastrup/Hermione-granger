@@ -38,13 +38,13 @@ You are working as an analyst for a real estate company. Your company wants to b
 To build a model that will predict the price of a house based on features provided in the dataset. Senior management also wants to explore the characteristics of the houses using some business intelligence tools. One of those parameters includes understanding which factors are responsible for higher property value - $650K and above.
 
 # Variables-description
-Id: Unique identification number for the property
+Id: Unique identification number for the property.
 
-date: the date the house was sold
+date: the date the house was sold.
 
-price: the price of the house
+price: the price of the house.
 
-waterfront: the house which has a view to a waterfront
+waterfront: the house which has a view to a waterfront.
 
 condition: How good the condition is (Overall). 1 indicates worn-out property and 5 excellent.
 
@@ -54,7 +54,7 @@ Sqft_above: square footage of house apart from the basement.
 
 Sqft_living15: Living room area in 2015(implies-- some renovations) This might or might not have affected the lotSize area.
 
-Sqft_lot15: lotSize area in 2015(implies-- some renovations)
+Sqft_lot15: lotSize area in 2015(implies-- some renovations).
 
 # Data
 With a colossal sum of data accessible, we investigated a number of diverse sources. Hence CSV file was downloaded and prepared for the data analysis. Using Python we were able to conduct various steps to reach the analyis and reporting stage. we scratched a number of diverse tables into Pandas Dataframes and began to investigate and clean the data. After finalizing with the data cleaning, we sent out the clean dataframes to CSV files to be utilized for assist investigation in SQL.
