@@ -9,13 +9,21 @@ Exploring, Wrangling, Visualisation and Analysis of Real Estate Data.
 
 # Content
 *[Project Outline](#project-outline)
+
 *[Scenario](#scenario)
+
 *[Objective](#objective)
+
 *[Variables-description](#variables-description)
+
 *[Data](#data)
+
 *[Database](#database)
+
 *[Visualisation](#visualisation)
+
 *[Statistical Analysis](#statistical-analysis)
+
 *[Conclusion](#conclusion)
  
 # Project Outline
