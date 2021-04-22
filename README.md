@@ -1,4 +1,6 @@
-## Real-Estate Sales Analysis
+## Seattle, Washington Housing Market Analysis
+![alt text](https://https://github.com/Bunmi-Haastrup/Hermione-granger/blob/main/image.png)
+Picture source:Langan.com, Map source: Hermione-granger
 
 # April 2021
 Exploring, Wrangling, Visualisation and Analysis of Real Estate Data.
